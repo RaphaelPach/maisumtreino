@@ -2,3 +2,5 @@ lapis
 borracha
 cola 
 caneta
+lapis de cor
+regua
