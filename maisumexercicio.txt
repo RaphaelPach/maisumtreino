@@ -5,3 +5,5 @@ caneta
 lapis de cor
 regua
 polis
+estelete
+polis 0.8
