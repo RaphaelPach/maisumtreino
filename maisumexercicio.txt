@@ -4,3 +4,4 @@ cola
 caneta
 lapis de cor
 regua
+polis
