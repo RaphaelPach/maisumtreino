@@ -5,5 +5,10 @@ caneta
 lapis de cor
 regua
 polis
+trybe-exercises
 estojo sherk
 grampeador 
+=======
+estelete
+polis 0.8
+ main
